@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okayclay
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning python but will hopefully move to C++ in the future
+- 🌱 I’m currently bouncing between Java, C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
