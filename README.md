@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @okayclay
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently bouncing between HTML, Javascript, CSS C# and C++
+- 🌱 I’m currently bouncing between HTML, Javascript, CSS, C# and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
